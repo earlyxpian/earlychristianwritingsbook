@@ -1,0 +1,1 @@
+pandoc -o output/earlychristianwritings_practical.pdf -s --toc --toc-depth=1 --pdf-engine=xelatex book_source/metadata.yaml book_source/introduction.md book_source/thetwoways.md book_source/1clement.md
